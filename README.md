@@ -34,6 +34,11 @@ Please keep in mind:
 6. You should now have a .obj and .mtl file in (myaddon)/maps/
 ![image](https://user-images.githubusercontent.com/73554599/215302510-d89a1c33-01ca-454d-8fa4-688ebc212d78.png)
 
+Now put your materials in (myaddon)/materials/infmap/ 
+![image](https://user-images.githubusercontent.com/73554599/215345787-43e28adf-e8fa-4a70-9ee2-185ebeacadf7.png)
+
+If the textures were exported in a folder (such as ./textures) just put that folder in (myaddon)/materials/infmap/
+
 7. Because of workshop restrictions it is impossible to upload a .obj and .mtl file. In order to combat this, turn the .obj and .mtl files into AIN files.
 I am aware this is kind of cursed, but I am at the mercy of gmpublisher.exe.
 If you do not wish to do this step, feel free to skip it. Just know that in order to upload to the workshop, you must change all .objs and .mtls into .AINs
