@@ -38,7 +38,7 @@ If you do not wish to do this step, feel free to skip it. Just know that in orde
 8. Create a new LUA file in (myaddon)/lua/infmap/(mapname)/
 ![image](https://user-images.githubusercontent.com/73554599/215302627-7b801cc5-cc74-4e88-a8cf-e55fa1772c30.png)
 
-9. Use the InfMap.parse_obj function (see linked image for more documentation)
+9. Use the InfMap.parse_obj function (see image for code)
 ![image](https://user-images.githubusercontent.com/73554599/215302636-573d6d5d-56f1-4535-9919-9c5b6d2429a4.png)
 
 The shaders can be exchanged such as "nocull" or "alphatest" instead of "nocull alphatest"
