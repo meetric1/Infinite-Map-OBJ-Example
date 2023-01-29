@@ -4,6 +4,9 @@ Download and extract to your gmod addons folder to play it
 
 This is NOT meant to be used as an on-the-fly object loader. It is meant as a MAP loader.
 
+Example of what the loader can do:
+[Assetto Corsa Map](https://youtu.be/79IPC8lSkK4)
+
 Please keep in mind:
 - Make sure to optimize your .objs! Don't expect to be able to instantly port any model without lag.
 - Visual objs can be optimized by combining surfaces while making sure the triangle count per object *IS UNDER 10,000*.
