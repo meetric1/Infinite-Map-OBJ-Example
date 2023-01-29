@@ -16,6 +16,7 @@ Please keep in mind:
 - Triangles larger than 1 chunk (10,000 hammer units) and smaller than 10 hammer units will not have collision.
 - Large and detailed OBJ files may take a while to load, just give it time!
 - Due to a memory leak related to vectors (garry moment) the OBJ loader takes a lot of ram. If you occur crashing I suggest switching to the 64 Bit branch as it is more stable and allows more ram to be allocated to the game.
+- Make sure to name your files to something unique or it may conflict with someone elses model!
 
 # Making your own map .obj in 10 steps
 1. Make a model using a modeling program. I used blender but things such as 3DS max work too.
