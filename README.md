@@ -1,15 +1,15 @@
 # Infinite-Map-OBJ-Example
-Keep In Mind:
+This is an example obj in my .OBJ Parser for the [Infinite Map project](https://github.com/Mee12345/gmod-infinite-map)
+Download and extract to your gmod addons folder to play it
+This is NOT meant to be used as an on-the-fly object loader. It is meant as a MAP loader.
+
+Please keep in mind:
 - Make sure to optimize your .objs! Don't expect to be able to instantly port any model without lag.
 - Visual objs can be optimized by combining surfaces while making sure the triangle count is UNDER 10,000.
 - Objs with more than 10k tris per surface will break!
 - Physical objs can be optimized just by making the tri count less.
 - Triangles larger than 1 chunk will not have collision.
 - Large and detailed OBJ files may take a while to load, just give it time!
-
-This is an example obj in my .OBJ Parser for the [Infinite Map project](https://github.com/Mee12345/gmod-infinite-map)
-Download and extract to your gmod addons folder to play it
-This is NOT meant to be used as an on-the-fly object loader. It is meant as a MAP loader.
 
 # Making your own map .obj in 10 steps
 1. Make a model using a modeling program. I used blender but things such as 3DS max work too.
