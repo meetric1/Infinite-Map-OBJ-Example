@@ -1,6 +1,7 @@
 # Infinite-Map-OBJ-Example
 This is an example obj in my .OBJ Parser for the [Infinite Map project](https://github.com/Mee12345/gmod-infinite-map)
 Download and extract to your gmod addons folder to play it
+
 This is NOT meant to be used as an on-the-fly object loader. It is meant as a MAP loader.
 
 Please keep in mind:
