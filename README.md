@@ -11,6 +11,7 @@ Please keep in mind:
 - Make sure to optimize your .objs! Don't expect to be able to instantly port any model without lag.
 - Visual .objs can be optimized by simpily having less objects in the scene. Just make sure the triangle count per object is under 32,768.
 - Visual .objs with more than 32k tris per surface will break!
+- Make sure each visual object has a material or it will combine models!
 - Physical objs can be optimized just by making the tri count less.
 - Triangles larger than 1 chunk (10,000 hammer units) and smaller than 10 hammer units will not have collision.
 - Large and detailed OBJ files may take a while to load, just give it time!
