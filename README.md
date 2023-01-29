@@ -25,7 +25,7 @@ Please keep in mind:
 4. Export your model AS AN OBJ to myaddon/maps/ (Just put it in the same file as the .bsp)
 
 5. Make sure you export __with__ materials!
-![image](https://user-images.githubusercontent.com/73554599/215304456-530f3bfa-6d99-4340-a2af-1cc128cf5316.png)
+![image](https://user-images.githubusercontent.com/73554599/215304471-a9278c18-ed9d-4ef4-b4ac-5b63fbe8f4e5.png)
 
 6. You should now have a .obj and .mtl file in (myaddon)/maps/
 ![image](https://user-images.githubusercontent.com/73554599/215302510-d89a1c33-01ca-454d-8fa4-688ebc212d78.png)
