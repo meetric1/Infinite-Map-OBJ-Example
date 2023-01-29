@@ -20,3 +20,6 @@ InfMap.parse_obj("cloud", mat, 1, "nocull alphatest")
 // Create our physical model, note the "2" which means it is ONLY collision
 // Because it is collision, we do not need the shader option
 InfMap.parse_obj("cloud_collision", mat, 2)
+    
+// If you wish to have collision AND visuals combined, you can do so by using "0" or "3"
+// Example: InfMap.parse_obj("cloud", mat, 3, "nocull alphatest")
