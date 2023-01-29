@@ -23,11 +23,12 @@ This is NOT meant to be used as an on-the-fly object loader. It is meant as a MA
 ![image](https://user-images.githubusercontent.com/73554599/215302510-d89a1c33-01ca-454d-8fa4-688ebc212d78.png)
 
 7. Because of workshop restrictions it is impossible to upload a .obj and .mtl file, in order to combat this turn the .obj and .mtl files into AIN files
-![image](https://user-images.githubusercontent.com/73554599/215301558-9bff9bd4-1087-4bee-8e9c-220b17b90908.png)
 I am aware this is kind of cursed, but I am at the mercy of gmpublisher.exe
 If you do not wish to do this step, feel free to skip it. Just know that in order to upload to the workshop, you must change all .objs and .mtls into .AINs
+![image](https://user-images.githubusercontent.com/73554599/215301558-9bff9bd4-1087-4bee-8e9c-220b17b90908.png)
 
 8. Create a new LUA file in (myaddon)/lua/infmap/(mapname)/
+
 ![image](https://user-images.githubusercontent.com/73554599/215302627-7b801cc5-cc74-4e88-a8cf-e55fa1772c30.png)
 
 9. Use the InfMap.parse_obj function (see LUA example / linked image for more documentation)
