@@ -9,8 +9,8 @@ Example of what the loader can do:
 
 Please keep in mind:
 - Make sure to optimize your .objs! Don't expect to be able to instantly port any model without lag.
-- Visual .objs can be optimized by simpily having less objects in the scene. Just make sure the triangle count per object is under 10,992.
-- Visual .objs with more than 10k tris per surface may break!
+- Visual .objs can be optimized by simpily having less objects in the scene. Just make sure the triangle count per object is under 21,845.
+- Visual .objs with more than 20k tris per surface may break!
 - Make sure each visual object has a material or it will combine models!
 - Physical objs can be optimized just by making the tri count less.
 - Triangles larger than 1 chunk (10,000 hammer units) and smaller than 10 hammer units will not have collision.
