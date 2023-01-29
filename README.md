@@ -30,8 +30,8 @@ Please keep in mind:
 6. You should now have a .obj and .mtl file in (myaddon)/maps/
 ![image](https://user-images.githubusercontent.com/73554599/215302510-d89a1c33-01ca-454d-8fa4-688ebc212d78.png)
 
-7. Because of workshop restrictions it is impossible to upload a .obj and .mtl file, in order to combat this turn the .obj and .mtl files into AIN files
-I am aware this is kind of cursed, but I am at the mercy of gmpublisher.exe
+7. Because of workshop restrictions it is impossible to upload a .obj and .mtl file. In order to combat this, turn the .obj and .mtl files into AIN files.
+I am aware this is kind of cursed, but I am at the mercy of gmpublisher.exe.
 If you do not wish to do this step, feel free to skip it. Just know that in order to upload to the workshop, you must change all .objs and .mtls into .AINs
 ![image](https://user-images.githubusercontent.com/73554599/215301558-9bff9bd4-1087-4bee-8e9c-220b17b90908.png)
 
