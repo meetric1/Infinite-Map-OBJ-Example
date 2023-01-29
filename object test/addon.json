@@ -1,0 +1,10 @@
+{
+	"title": "The Darkness",
+	"type": "map",
+	"tags": [ "scenic", "fun" ],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
