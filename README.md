@@ -4,10 +4,12 @@ You NEED the Infinite Map base in order to use this!
 
 This is NOT meant to be used as an on-the-fly object loader. It is meant as a MAP loader.
 
+The same performance you get in blender is likely the same performance you will get in game, PLEASE OPTIMIZE YOUR MODELS!
+
 Example of what the loader can do:
 [Assetto Corsa Map](https://youtu.be/79IPC8lSkK4)
 
-Please keep in mind:
+KEEP IN MIND WHEN MAKING / IMPORTING YOUR .OBJS:
 - Make sure to optimize your .objs! Don't expect to be able to instantly port any model without lag.
 - Visual .objs can be optimized by simpily having less objects in the scene. Just make sure the triangle count per object is under 21,845.
 - Visual .objs with more than 20k tris per surface may break!
