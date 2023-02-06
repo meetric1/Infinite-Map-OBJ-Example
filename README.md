@@ -3,7 +3,7 @@ This is an example obj in my .OBJ Parser for the [Infinite Map project](https://
 You NEED the Infinite Map base in order to use this!
 
 This is NOT meant to be used as an on-the-fly object loader. It is meant as a MAP loader.
-The same performance you get in blender is likely the same performance you will get in game. OPIMIZE YOUR MODELS!
+IT IS LIKELY THAT THE SAME PERFORMANCE YOU GET IN BLENDER (in the material view mode) WILL BE THE PERFORMANCE YOU GET INGAME. OPIMIZE YOUR MODELS!
 
 Example of what the loader can do:
 [Assetto Corsa Map](https://youtu.be/79IPC8lSkK4)
